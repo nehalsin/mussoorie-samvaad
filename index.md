@@ -1,14 +1,7 @@
-# Mussoorie Samvaad
+# Mussoorie Samvaad - Mind Maps 
 
-## 2022-11-13
+> These Mind Maps were made during the sessions as an aid for own understanding.
 
-### Poster
-
-![IMG-20221112-WA0001](IMG-20221112-WA0001.jpg)
-
-### Mind Map
-
-![Mussourie_samwaad_2022-1](Mussourie_samwaad_2022-1.jpg)
 
 ## 2022-12-24
 
@@ -24,3 +17,12 @@
 
 ![Mussourie_samwaad_2022-4](Mussourie_samwaad_2022-4.jpg)
 
+## 2022-11-13
+
+### Poster
+
+![IMG-20221112-WA0001](IMG-20221112-WA0001.jpg)
+
+### Mind Map
+
+![Mussourie_samwaad_2022-1](Mussourie_samwaad_2022-1.jpg)
